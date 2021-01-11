@@ -4,7 +4,7 @@ import { Layout, CartContents, SEO } from 'components';
 export default function CartPage() {
   return (
     <Layout>
-      <SEO description="The MadHatter cart" title="Cart" />
+      <SEO description="The TopDogShopping cart" title="Cart" />
       <CartContents />
     </Layout>
   );
